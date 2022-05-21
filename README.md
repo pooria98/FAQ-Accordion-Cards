@@ -10,12 +10,16 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
 
+### Screenshot
+
+![FAQ Accordion Cards](screenshot/FAQ%20Accordion.png)
+
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-cards-cssonly-rJzS_QSI9]
-- Live Site URL: [https://pooria98.github.io/FAQ-Accordion-Cards/]
+- Solution URL: [FAQ Accordion Cards Solution](https://www.frontendmentor.io/solutions/faq-accordion-cards-cssonly-rJzS_QSI9)
+- Live Site URL: [Live Site](https://pooria98.github.io/FAQ-Accordion-Cards/)
 
 ### Built with
 
-HTML & ONLY CSS!
+- HTML & ONLY CSS!
 (no javascript for extra challenge)
